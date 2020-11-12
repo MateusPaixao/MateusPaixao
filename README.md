@@ -1,9 +1,9 @@
 
 ### Hey there! 😁🤘🏾👋🏾
 
-My name is Mateus Paixão from Brazil (🇧🇷). I've been working as Full Stack Developer Developer since 2013 and currently I'm Developer at [Corebiz](https://www.corebiz.ag/). I'm passionate about open source projects, so I've created some projects as [Picturen](https://github.com/MateusPaixao/picturen-frontend) and I've always loved to learn a lot with this during my career.
+My name is Mateus Paixão from Brazil (🇧🇷). I've been working as Full Stack Developer since 2013 and currently I'm Developer at [Corebiz](https://www.corebiz.ag/). I'm passionate about open source projects, so I've created some projects as [Picturen](https://github.com/MateusPaixao/picturen-frontend) and I've always loved to learn a lot with this during my career.
 
-In my free time I like to play, (like The Last Of Us, I love it) games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+In my free time I like to play, (like The Last Of Us, I love it) games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a great beer (🍺).
 
 Would you like to find me?
 
